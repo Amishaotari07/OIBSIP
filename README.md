@@ -87,16 +87,16 @@ This project delivers a comprehensive Exploratory Data Analysis (EDA) on the **G
 
 ---
 
+```text
 OIBSIP/
-├── FinancialAnalytics-L1-Task3-(Data_Cleaing)CocaColaValuation/
+├── DataAnalytics-L1-Task3-(Data_Cleaing)CocaColaValuation/
 │   ├── CocaCola_Valuation_Analysis.ipynb
-    ├── CocaCola_financial_dashboard.ipynb
+│   ├── CocaCola_financial_dashboard.ipynb
 │   └── cocacola_financials.xlsx
 │   
-│
 └── DataAnalytics-L2-Task4-PlayStoreEDA/
-|    ├── Google_Play_Store_EDA.ipynb
-|    ├── apps.csv
-|    └── user_reviews.csv
+    ├── Google_Play_Store_EDA.ipynb
+    ├── apps.csv
+    └── user_reviews.csv
 └── README.md
 
